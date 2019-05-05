@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="feature" type="Cucumber" />
+      <removed_mapping ext="feature" approved="true" type="Substeps" />
+      <removed_mapping ext="feature" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
