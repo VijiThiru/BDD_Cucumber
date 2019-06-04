@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="feature" type="Cucumber" />
+      <mapping pattern="SmallestPositive.java" type="PLAIN_TEXT" />
       <removed_mapping ext="feature" approved="true" type="Substeps" />
       <removed_mapping ext="feature" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
